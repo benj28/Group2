@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="infographicanchp2" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="415.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ScrollPane fx:id="info" layoutY="-6.0" prefHeight="420.0" prefWidth="1001.0">
+         <content>
+            <AnchorPane fx:id="infographicanch" minHeight="0.0" minWidth="0.0" prefHeight="413.0" prefWidth="998.0" styleClass="infographicanch_tab" stylesheets="@application.css">
+               <children>
+                  <Button layoutX="839.0" layoutY="360.0" mnemonicParsing="false" onAction="#infop6" prefHeight="32.0" prefWidth="65.0" style="-fx-background-color: #54785e;" text="Next" textFill="#f5eee9" />
+                  <Text layoutX="88.0" layoutY="53.0" strokeType="OUTSIDE" strokeWidth="0.0" text="04. Design your graphics">
+                     <font>
+                        <Font name="Microsoft YaHei" size="24.0" />
+                     </font>
+                  </Text>
+                  <TextArea editable="false" layoutX="79.0" layoutY="216.0" prefHeight="152.0" prefWidth="879.0" text="Once you’ve got your content organized and know what’s going where, it’s time to actually design any graphics you need to bring your infographic to life. There &#10;are plenty of graphic elements you can include in your infographic: Custom Illustration , Charts, Tables, Graphs, Icons, and Titles/Text.&#10;&#10;Again, there’s no one-size-fits-all solution to incorporating graphics into your infographic design, the graphics that are going to be most effective for you are &#10;going to depend on your brand, your audience, and what kind of information you’re incorporating into your infographic. Cartoon-inspired illustrations would be &#10;a great fit for a fun, quirky brand—but would feel out of place on a more corporate infographic. On the flip side, pie charts would feel too stuffy &#10;for that fun and quirky brand—but would be a great fit for a more traditional corporate company.&#10;" />
+                  <ImageView fitHeight="128.0" fitWidth="231.0" layoutX="692.0" layoutY="80.0">
+                     <image>
+                        <Image url="@../../Infographic_pic/rawpixel-579255-unsplash.02060910.jpg" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="129.0" fitWidth="589.0" layoutX="90.0" layoutY="80.0">
+                     <image>
+                        <Image url="@../../Infographic_pic/header-3-1.png" />
+                     </image>
+                  </ImageView>
+                  <TextArea layoutX="79.0" layoutY="334.0" prefHeight="69.0" prefWidth="620.0" text="&#10;Figure out what graphic elements you need for your infographic design, and then, figure out how you’re going to &#10;bring them to life. Depending on the elements you need, it might make sense to use a pre-designed template." />
+               </children>
+            </AnchorPane>
+         </content></ScrollPane>
+   </children>
+</AnchorPane>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="infographicanchp2" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="415.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ScrollPane fx:id="info" layoutY="-6.0" prefHeight="433.0" prefWidth="1001.0">
+         <content>
+            <AnchorPane fx:id="infographicanch" minHeight="0.0" minWidth="0.0" prefHeight="438.0" prefWidth="998.0" styleClass="infographicanch_tab" stylesheets="@application.css">
+               <children>
+                  <Text layoutX="33.0" layoutY="67.0" strokeType="OUTSIDE" strokeWidth="0.0" text="How to Design an Infographic">
+                     <font>
+                        <Font name="Microsoft YaHei" size="29.0" />
+                     </font>
+                  </Text>
+                  <Button layoutX="869.0" layoutY="368.0" mnemonicParsing="false" onAction="#infop3" prefHeight="32.0" prefWidth="65.0" style="-fx-background-color: #54785e;" text="Next" textFill="#f5eee9" />
+                  <TextArea editable="false" layoutX="50.0" layoutY="121.0" prefHeight="111.0" prefWidth="547.0" text="First things first, before you can create an attention-grabbing infographic, you need to make sure &#10;that you have a strong topic, informative data, or unique information that’s going to capture the &#10;audience’s attention. It sounds obvious, but the right content is key for creating an impactful &#10;infographic. While the definition of  “right content” will vary based on your business and what &#10;you’re trying to accomplish with your infographic, there are a few topics that typically work across &#10;the board:" />
+                  <Text layoutX="56.0" layoutY="97.0" strokeType="OUTSIDE" strokeWidth="0.0" text="01. Choose your topic">
+                     <font>
+                        <Font name="Microsoft YaHei Light" size="27.0" />
+                     </font>
+                  </Text>
+                  <TextArea editable="false" layoutX="50.0" layoutY="242.0" prefHeight="131.0" prefWidth="341.0" text="-Annual reports. Chances are, you’ve got a lot of data&#10; about your company you want to share at the end &#10;of the year, and an infographic is a great way to do &#10;this. Infographics give you an opportunity to showcase &#10;things like sales numbers, marketing data, annual growth, &#10;and other company data in a way that’s going to have a real &#10;impact on your employees, customers, and investors." />
+                  <TextArea editable="false" layoutX="397.0" layoutY="241.0" prefHeight="127.0" prefWidth="249.0" text="-Survey results. The visual nature of an &#10;infographic is a great way to deliver survey&#10;results. Instead of just sending out a set of &#10;numbers, you can showcase the data in a &#10;way that really illustrates your results (and &#10;makes it easier for your audience to &#10;understand)." />
+                  <TextArea editable="false" layoutX="654.0" layoutY="239.0" prefHeight="136.0" prefWidth="280.0" text="-Timelines. Instead of writing out the history &#10;of your company or the evolution of a project, &#10;why not illustrate it in an infographic? As &#10;mentioned, infographics are a great way to &#10;transform information into a visual story—&#10;and because timelines are already telling a story &#10;in a visual way, they’re an obvious go-to." />
+                  <ImageView fitHeight="191.0" fitWidth="333.0" layoutX="597.0" layoutY="36.0">
+                     <image>
+                        <Image url="@../../Infographic_pic/benj.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </AnchorPane>
+         </content>
+      </ScrollPane>
+   </children>
+</AnchorPane>

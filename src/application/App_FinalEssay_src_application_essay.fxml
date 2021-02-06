@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="433.0" prefWidth="1000.0" stylesheets="@application.css" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.SampleController">
+   <children>
+      <ScrollPane prefHeight="433.0" prefWidth="1000.0" styleClass="essayanch_tab" stylesheets="@application.css">
+        <content>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="5611.0" prefWidth="987.0" styleClass="essayanch_tab" stylesheets="@application.css">
+               <children>
+                  <ImageView fitHeight="1031.0" fitWidth="811.0" layoutX="117.0" layoutY="3454.0" pickOnBounds="true" preserveRatio="true" rotate="90.0">
+                     <image>
+                        <Image url="@../../../../Desktop/App/e5e2d9.png" />
+                     </image>
+                  </ImageView>
+                  <AnchorPane layoutX="-1.0" layoutY="10.0" prefHeight="0.0" prefWidth="1000.0" />
+                  <ImageView fitHeight="1027.0" fitWidth="826.0" layoutX="93.0" layoutY="-152.0" pickOnBounds="true" preserveRatio="true" rotate="90.0" styleClass="essayanch_tab">
+                     <image>
+                        <Image url="@../../../../Desktop/App/e5e2d9.png" />
+                     </image>
+                  </ImageView>
+                  <Text layoutX="311.0" layoutY="210.0" strokeType="OUTSIDE" strokeWidth="0.0" text="How to make an Effective Essay" wrappingWidth="280.4000244140624">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="33.0" />
+                     </font>
+                  </Text>
+                  <ImageView fitHeight="1029.0" fitWidth="759.0" layoutX="111.0" layoutY="620.0" pickOnBounds="true" preserveRatio="true" rotate="90.0">
+                     <image>
+                        <Image url="@../../../../Desktop/App/e5e2d9.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="1064.0" fitWidth="803.0" layoutX="74.0" layoutY="1075.0" pickOnBounds="true" preserveRatio="true" rotate="90.0">
+                     <image>
+                        <Image url="@../../../../Desktop/App/e5e2d9.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="556.0" fitWidth="576.0" layoutX="576.0" layoutY="-26.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/App/writingmangreen.png" />
+                     </image>
+                  </ImageView>
+                  <Text layoutX="99.0" layoutY="492.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Steps in making an essay">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="28.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="193.0" layoutY="544.0" strokeType="OUTSIDE" strokeWidth="0.0" text="1. Pick a topic">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="22.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="194.0" layoutY="579.0" strokeType="OUTSIDE" strokeWidth="0.0" text="2. Create an outline">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="22.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="194.0" layoutY="615.0" strokeType="OUTSIDE" strokeWidth="0.0" text="3. Write your essay: Create a thesis statement">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="22.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="194.0" layoutY="726.0" strokeType="OUTSIDE" strokeWidth="0.0" text="6. Write the concluding paragraph">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="22.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="195.0" layoutY="653.0" strokeType="OUTSIDE" strokeWidth="0.0" text="4. Write the introductory paragraph">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="22.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="194.0" layoutY="689.0" strokeType="OUTSIDE" strokeWidth="0.0" text="5. Write the body paragraphs">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="22.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="193.0" layoutY="767.0" strokeType="OUTSIDE" strokeWidth="0.0" text="7. Edit your first draft">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="22.0" />
+                     </font>
+                  </Text>
+                  <Line endX="706.0" layoutX="234.0" layoutY="833.0" startX="-175.59996032714844" />
+                  <ImageView fitHeight="579.0" fitWidth="575.0" layoutX="483.0" layoutY="864.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/App/circlewoman1.png" />
+                     </image>
+                  </ImageView>
+                  <Text layoutX="133.0" layoutY="905.0" strokeType="OUTSIDE" strokeWidth="0.0" text="1. Pick a topic">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="200.0" layoutY="936.0" strokeType="OUTSIDE" strokeWidth="0.0" text="After getting an overview of the essay, you will be in a better position to choose a more relevant topic. Begin by brainstorming, sit down, be calm and start a free flow of thoughts and jot down ideas. Narrow your focus and choose an interesting topic depending on the type of essay and purpose so you can create a top notch essay. " textAlignment="JUSTIFY" wrappingWidth="389.4878234863281">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <ImageView fitHeight="574.0" fitWidth="551.0" layoutX="505.0" layoutY="1106.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/App/circleman.png" />
+                     </image>
+                  </ImageView>
+                  <Text layoutX="130.0" layoutY="1039.0" strokeType="OUTSIDE" strokeWidth="0.0" text="2. Create an outline">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="202.0" layoutY="1067.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Jot your topic in the middle of your page, draw lines branching from the topic and write main ideas at the end of each line. From the main ideas at the end of the lines draw more lines and include your thoughts. A skilled essay writer always knows how to start an essay and understands his audience before starting to scribble his arguments. Another option is to use a simple outline. Write your topic at the top of your page, separate your essay into introduction, body, and conclusion. The ‘skeleton’ will enable you to write a more organized essay." textAlignment="JUSTIFY" wrappingWidth="387.08782958984375">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="130.0" layoutY="1211.0" strokeType="OUTSIDE" strokeWidth="0.0" text="3. Write your essay: Create a thesis statement">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="200.0" layoutY="1244.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Begin by creating a thesis statement which must tell your reader the purpose of your essay. Read through your outline to help you create an appropriate thesis. Your thesis statement must state the topic and the main argument of your essay. The single statement must carry the overall response to the problem. Put your thesis statement in your first paragraph then make sure you refer to it several times within the essay then restate it in your conclusion." textAlignment="JUSTIFY" wrappingWidth="387.08782958984375">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="130.0" layoutY="1369.0" strokeType="OUTSIDE" strokeWidth="0.0" text="4. Write the introductory paragraph">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="199.0" layoutY="1400.0" strokeType="OUTSIDE" strokeWidth="0.0" text="After creating a thesis statement and the body of the essay write an introductory paragraph. Make your introduction fascinating to capture the attention of your readers. Begin with a ‘hook’; you can use a story, dialogue, shocking revelation, a quote or a topic summary. Make sure that your ‘hook’ ties with the thesis statement." textAlignment="JUSTIFY" wrappingWidth="387.08782958984375">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="130.0" layoutY="1491.0" strokeType="OUTSIDE" strokeWidth="0.0" text="5. Write the body paragraphs">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="131.0" layoutY="1666.0" strokeType="OUTSIDE" strokeWidth="0.0" text="6. Write the concluding paragraph">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="130.0" layoutY="1813.0" strokeType="OUTSIDE" strokeWidth="0.0" text="7. Edit your first draft">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="199.0" layoutY="1529.0" strokeType="OUTSIDE" strokeWidth="0.0" text="This is the part of the essay that you are supposed to explain, describe or argue the topic. The main ideas you wrote down on your outline becomes separate paragraphs. Each paragraph carries the main idea. The paragraph begins with an introductory sentence which carries the main idea.   Supporting ideas follow suit in sentence format backed with relevant information and examples. Don’t forget to cite every reference materials used. Direct quotes must also be cited using the required format style." textAlignment="JUSTIFY" wrappingWidth="387.08782958984375">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="198.0" layoutY="1701.0" strokeType="OUTSIDE" strokeWidth="0.0" text="This part must be given much importance as the introduction part. The conclusion gives you a chance, to sum up, your ideas and close up the topic. Make it short; write three to five sentences. Do not introduce any new ideas at the conclusion; summarize your prior arguments. You have the chance to restate your thesis statement and once again support your stance." textAlignment="JUSTIFY" wrappingWidth="387.08782958984375">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="197.0" layoutY="1857.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Before you consider your first draft a finished essay, do the editing and proofreading. Checks the general structure of your essay and make sure the correct format is used. Ensure that the strongest points appear first and at the last paragraph within the body of the essay, the others can be fixed in the middle of the body paragraph." textAlignment="JUSTIFY" wrappingWidth="387.08782958984375">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <ImageView fitHeight="560.0" fitWidth="553.0" layoutX="517.0" layoutY="1354.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/App/circleman1.png" />
+                     </image>
+                  </ImageView>
+                  <Line endX="706.0" layoutX="235.0" layoutY="1989.0" startX="-175.59996032714844" />
+                  <ImageView fitHeight="1075.0" fitWidth="833.0" layoutX="81.0" layoutY="1862.0" pickOnBounds="true" preserveRatio="true" rotate="90.0">
+                     <image>
+                        <Image url="@../../../../Desktop/App/e5e2d9.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="1060.0" fitWidth="836.0" layoutX="83.0" layoutY="2667.0" pickOnBounds="true" preserveRatio="true" rotate="90.0">
+                     <image>
+                        <Image url="@../../../../Desktop/App/e5e2d9.png" />
+                     </image>
+                  </ImageView>
+                  <Text layoutX="360.0" layoutY="2093.0" strokeType="OUTSIDE" strokeWidth="0.0" text="DO's of Essay Writing ">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="28.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="141.0" layoutY="2157.0" strokeType="OUTSIDE" strokeWidth="0.0" text="1. Do Make your Essay Easy to Read">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="142.0" layoutY="2298.0" strokeType="OUTSIDE" strokeWidth="0.0" text="3. Do Use Transitions Between Paragraphs">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="142.0" layoutY="2543.0" strokeType="OUTSIDE" strokeWidth="0.0" text="4. Do Cite Examples">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="142.0" layoutY="2615.0" strokeType="OUTSIDE" strokeWidth="0.0" text="5. Do Discuss Literature in the Present Tense">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="142.0" layoutY="2714.0" strokeType="OUTSIDE" strokeWidth="0.0" text="6. Do Use Advanced Vocabulary">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="143.0" layoutY="2800.0" strokeType="OUTSIDE" strokeWidth="0.0" text="7. Do Respond to the Prompt of the Essay">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="144.0" layoutY="2871.0" strokeType="OUTSIDE" strokeWidth="0.0" text="8. Do Use Simple Sentences">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="144.0" layoutY="2955.0" strokeType="OUTSIDE" strokeWidth="0.0" text="9. Do Choose Proper Type, Style and Format">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="135.0" layoutY="3042.0" strokeType="OUTSIDE" strokeWidth="0.0" text="10. Do Choose the Right Language">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="139.0" layoutY="3291.0" strokeType="OUTSIDE" strokeWidth="0.0" text="11.Do Revise your Writing Thoroughly">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="142.0" layoutY="2228.0" strokeType="OUTSIDE" strokeWidth="0.0" text="2. Do Include a Thesis Statement in the Introduction">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="176.0" layoutY="2189.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Get rid of extra words and phrases, use clear constructions and stick to the point.">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="175.0" layoutY="2260.0" strokeType="OUTSIDE" strokeWidth="0.0" text="The thesis statement should reveal the main idea of the essay in a concise format.">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="176.0" layoutY="2330.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Sometimes paragraphs sound like separate pieces of text put together. This is the wrong approach to writing.">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="229.0" layoutY="2359.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Examples of phrases you can use for transitions include:">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="278.0" layoutY="2413.0" strokeType="OUTSIDE" strokeWidth="0.0" text="•Speaking about this…">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="278.0" layoutY="2390.0" strokeType="OUTSIDE" strokeWidth="0.0" text="•Despite the previous arguments…">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="278.0" layoutY="2437.0" strokeType="OUTSIDE" strokeWidth="0.0" text="•Regarding this…">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="277.0" layoutY="2461.0" strokeType="OUTSIDE" strokeWidth="0.0" text="•With regards to this…">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="277.0" layoutY="2483.0" strokeType="OUTSIDE" strokeWidth="0.0" text="•As has been noted…">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="276.0" layoutY="2507.0" strokeType="OUTSIDE" strokeWidth="0.0" text="•To put it briefly…">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="176.0" layoutY="2578.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Any example you use – from literature, scientific work, etc. - should be cited.">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="175.0" layoutY="2649.0" strokeType="OUTSIDE" strokeWidth="0.0" text="When writing literary reviews or essays based on literary works it is advisable to use present tense – historical present or narrative present, as it is called. It makes the storytelling more engaging and real, increasing the feeling of presence." textAlignment="JUSTIFY" wrappingWidth="592.3794403076172">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="175.0" layoutY="2749.0" strokeType="OUTSIDE" strokeWidth="0.0" text="The aim of an essay is to not only to reveal your knowledge of the topic, but to show your ability to choose appropriate vocabulary and show your language expertise." textAlignment="JUSTIFY" wrappingWidth="592.3794403076172">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="174.0" layoutY="2835.0" strokeType="OUTSIDE" strokeWidth="0.0" text="The prompt of the essay is intentional." textAlignment="JUSTIFY" wrappingWidth="592.3794403076172">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="176.0" layoutY="2905.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Complicated sentences may be confusing, not only for the person reading and grading your essay but for the students themselves." textAlignment="JUSTIFY" wrappingWidth="592.3794403076172">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="177.0" layoutY="2989.0" strokeType="OUTSIDE" strokeWidth="0.0" text="A good essay is not about style and formatting, of course, but style influences the first impression your paper makes." textAlignment="JUSTIFY" wrappingWidth="592.3794403076172">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="176.0" layoutY="3327.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Before you hit ‘Save’ and print the final version, check your essay thoroughly to avoid spelling mistakes, typos and incorrect sentence constructions. Apart from language mistakes, check if you followed all the requirements: number of words/pages, text formatting, essay structure, etc." textAlignment="JUSTIFY" wrappingWidth="592.3794403076172">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="177.0" layoutY="3077.0" strokeType="OUTSIDE" strokeWidth="0.0" text="The language you use in the paper indicates your ability to research and analyze the topic, prove your opinion, and explain your points clearly and vividly." textAlignment="JUSTIFY" wrappingWidth="592.3794403076172">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="230.0" layoutY="3122.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Examples of phrases you can use for transitions include:">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="276.0" layoutY="3150.0" strokeType="OUTSIDE" strokeWidth="0.0" text="•There seems to be no compelling reason to argue that …">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="276.0" layoutY="3174.0" strokeType="OUTSIDE" strokeWidth="0.0" text="•The argument can be made …">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="276.0" layoutY="3199.0" strokeType="OUTSIDE" strokeWidth="0.0" text="•Current research on [your topic] shows …">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="276.0" layoutY="3226.0" strokeType="OUTSIDE" strokeWidth="0.0" text="•The most common argument in favor of (or against) is …">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="276.0" layoutY="3251.0" strokeType="OUTSIDE" strokeWidth="0.0" text="•There is a growing body of evidence to support …">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Line endX="706.0" layoutX="235.0" layoutY="3455.0" startX="-175.59996032714844" />
+                  <Text layoutX="332.0" layoutY="3556.0" strokeType="OUTSIDE" strokeWidth="0.0" text="DONT's of Essay Writing ">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="28.0" />
+                     </font>
+                  </Text>
+                  <ImageView fitHeight="484.0" fitWidth="585.0" layoutX="551.0" layoutY="3474.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/App/writingmangreen3.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="1064.0" fitWidth="816.0" layoutX="86.0" layoutY="4097.0" pickOnBounds="true" preserveRatio="true" rotate="90.0">
+                     <image>
+                        <Image url="@../../../../Desktop/App/e5e2d9.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="484.0" fitWidth="585.0" layoutX="19.0" layoutY="3852.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/App/writingmangreen3.png" />
+                     </image>
+                  </ImageView>
+                  <Text layoutX="146.0" layoutY="3835.0" strokeType="OUTSIDE" strokeWidth="0.0" text="3. Don't Use Too Many Clichés">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="480.0" layoutY="4237.0" strokeType="OUTSIDE" strokeWidth="0.0" text="8. Don’t Start an Essay with “in this/my essay” Phrase">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="482.0" layoutY="3984.0" strokeType="OUTSIDE" strokeWidth="0.0" text="5. Don’t Rely Only on Spell Checkers">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="146.0" layoutY="3903.0" strokeType="OUTSIDE" strokeWidth="0.0" text="4. Don't Let Typos Ruin your Essay">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="146.0" layoutY="3738.0" strokeType="OUTSIDE" strokeWidth="0.0" text="2. Don't Neglect Formatting Details">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="145.0" layoutY="3632.0" strokeType="OUTSIDE" strokeWidth="0.0" text="1. Don't Overwhelm your Essay with Information and Facts">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="481.0" layoutY="4058.0" strokeType="OUTSIDE" strokeWidth="0.0" text="6. Do Not Plagiarize">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="480.0" layoutY="4143.0" strokeType="OUTSIDE" strokeWidth="0.0" text="7. Do Not Address the Reader">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="482.0" layoutY="4318.0" strokeType="OUTSIDE" strokeWidth="0.0" text="9. Don’t Use Negative Language">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="176.0" layoutY="3668.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Before you hit ‘Save’ and print the final version, check your essay thoroughly to avoid spelling mistakes, typos and incorrect sentence constructions. Apart from language mistakes, check if you followed all the requirements: number of words/pages, text formatting, essay structure, etc." textAlignment="JUSTIFY" wrappingWidth="508.11277770996094">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="177.0" layoutY="3771.0" strokeType="OUTSIDE" strokeWidth="0.0" text="No matter what your style and formatting requirements are, you should not forget to pay attention to the following points: paper size, spaces, font size, margins, and page numbers.." textAlignment="JUSTIFY" wrappingWidth="436.6460418701172">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="178.0" layoutY="3867.0" strokeType="OUTSIDE" strokeWidth="0.0" text="While using set phrases, avoid overwhelming your essay with clichés." textAlignment="JUSTIFY" wrappingWidth="422.7794647216797">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="179.0" layoutY="3938.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Submitting a paper that looks like a draft can be interpreted by a professor as disrespectful." textAlignment="JUSTIFY" wrappingWidth="508.11277770996094">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="511.0" layoutY="4012.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Though spell checkers are good way to automatically proof read your writing, don’t rely on software alone." textAlignment="JUSTIFY" wrappingWidth="394.51271057128906">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="513.0" layoutY="4091.0" strokeType="OUTSIDE" strokeWidth="0.0" text="This rule should be clear for every student. Plagiarism is a form of cheating, and when detected it is always punished." textAlignment="JUSTIFY" wrappingWidth="394.51283264160156">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="514.0" layoutY="4172.0" strokeType="OUTSIDE" strokeWidth="0.0" text="No matter what type of essay you are writing, academic writing rarely reveals the author nor engages in the conversation with the reader. Addressing the reader is more a mark of fiction than an academic essay. " textAlignment="JUSTIFY" wrappingWidth="394.51280212402344">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="517.0" layoutY="4268.0" strokeType="OUTSIDE" strokeWidth="0.0" text="The introduction has to present the main idea of the essay and reveal what you are going to talk about." textAlignment="JUSTIFY" wrappingWidth="394.51280212402344">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="520.0" layoutY="4351.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Negative language doesn’t mean vulgarisms. It means words with negative suffixes, phrases with negation, etc." textAlignment="JUSTIFY" wrappingWidth="394.51280212402344">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="12.0" />
+                     </font>
+                  </Text>
+                  <Line endX="752.0" layoutX="172.0" layoutY="441.0" startX="-100.0" />
+                  <Line endX="706.0" layoutX="235.0" layoutY="4442.0" startX="-175.59996032714844" />
+                  <Text layoutX="99.0" layoutY="4537.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Types of Essay Writing ">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="28.0" />
+                     </font>
+                  </Text>
+                  <ImageView fitHeight="1012.0" fitWidth="761.0" layoutX="121.0" layoutY="4858.0" pickOnBounds="true" preserveRatio="true" rotate="90.0">
+                     <image>
+                        <Image url="@../../../../Desktop/App/e5e2d9.png" />
+                     </image>
+                  </ImageView>
+                  <Button layoutX="819.0" layoutY="5477.0" mnemonicParsing="false" onAction="#QuizBtn" prefHeight="51.0" prefWidth="90.0" style="-fx-background-color: #54785e;" text="Quiz" textFill="#f5eee9">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="15.0" />
+                     </font></Button>
+                  <Text layoutX="90.0" layoutY="4636.0" strokeType="OUTSIDE" strokeWidth="0.0" text="1. Narrative Essays: Telling a Story">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="22.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="511.0" layoutY="5069.0" strokeType="OUTSIDE" strokeWidth="0.0" text="4. Persuasive Essays: Convince ">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="22.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="79.0" layoutY="5072.0" strokeType="OUTSIDE" strokeWidth="0.0" text="3. Expository Essays: Just the Facts" wrappingWidth="414.2069396972656">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="22.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="504.0" layoutY="4633.0" strokeType="OUTSIDE" strokeWidth="0.0" text="2. Descriptive Essays: Painting a Picture">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="22.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="114.0" layoutY="4680.0" strokeType="OUTSIDE" strokeWidth="0.0" text="In a narrative essay, the writer tells a story about a real-life experience. While telling a story may sound easy to do, the narrative essay challenges students to think and write about themselves. When writing a narrative essay, writers should try to involve the reader by making the story as vivid as possible. The fact that narrative essays are usually written in the first person helps engage the reader. “I” sentences give readers a feeling of being part of the story. A well-crafted narrative essay will also build towards drawing a conclusion or making a personal statement." textAlignment="JUSTIFY" wrappingWidth="318.26815032958984">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="533.0" layoutY="4680.0" strokeType="OUTSIDE" strokeWidth="0.0" text="A cousin of the narrative essay, a descriptive essay paints a picture with words. A writer might describe a person, place, object, or even memory of special significance. However, this type of essay is not description for description’s sake. The descriptive essay strives to communicate a deeper meaning through the description. In a descriptive essay, the writer should show, not tell, through the use of colorful words and sensory details. The best descriptive essays appeal to the reader’s emotions, with a result that is highly evocative." textAlignment="JUSTIFY" wrappingWidth="318.26815032958984">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="92.0" layoutY="5120.0" strokeType="OUTSIDE" strokeWidth="0.0" text="The expository essay is an informative piece of writing that presents a balanced analysis of a topic. In an expository essay, the writer explains or defines a topic, using facts, statistics, and examples. Expository writing encompasses a wide range of essay variations, such as the comparison and contrast essay, the cause and effect essay, and the “how to” or process essay. Because expository essays are based on facts and not personal feelings, writers don’t reveal their emotions or write in the first person." textAlignment="JUSTIFY" wrappingWidth="318.26815032958984">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="537.0" layoutY="5120.0" strokeType="OUTSIDE" strokeWidth="0.0" text="While like an expository essay in its presentation of facts, the goal of the persuasive essay is to convince the reader to accept the writer’s point of view or recommendation. The writer must build a case using facts and logic, as well as examples, expert opinion, and sound reasoning. The writer should present all sides of the argument, but must be able to communicate clearly and without equivocation why a certain position is correct." textAlignment="JUSTIFY" wrappingWidth="318.26815032958984">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="16.0" />
+                     </font>
+                  </Text>
+               </children>
+            </AnchorPane>
+        </content>
+      </ScrollPane>
+   </children>
+</AnchorPane>

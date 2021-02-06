@@ -1,0 +1,123 @@
+
+.tab-header-background {
+    -fx-background-color:#faf4f4;
+    -fx-tab-min-height:3em;
+	-fx-tab-max-height:3em;
+	
+	-fx-tab-max-width:10.5em;
+	-fx-tab-max-width:10.5em;
+	-fx-padding:0 0 0 0;
+}
+
+.tab{
+	-fx-background-color:transparent;
+	-fx-arc-width: 75;
+	-fx-arc-height: 75;
+	-fx-padding: 5 20 5 20;
+	-fx-font-size:15 em;
+	-fx-font-family:'Microsoft Sans Serif';
+	-fx-border-color: transparent;
+	}
+	
+
+ .tab:hover{
+-fx-background-color: #547c5c;
+	
+}
+
+.tab:selected{
+	-fx-background-color:#547c5c;
+}
+
+ .layitout_pic{
+ 	-fx-arc-height: 75;
+ 	-fx-arc-width: 75;
+ }
+
+.mainanchor_pane{
+	-fx-arc-width: 75;
+	-fx-arc-height: 75;
+}
+
+.anchpane-tab{
+	
+		-fx-background-color:#a28873;
+		
+	
+}
+.mainpane-tab{
+	-fx-border-style:none ;
+	-fx-background-color:#c4b4a4;
+	
+	-fx-tab-min-height:3em;
+	-fx-tab-max-height:3em;
+	
+	-fx-tab-max-width:10.5em;
+	-fx-tab-max-width:10.5em;
+	-fx-padding:0 -1 -1 0;
+}
+
+.homepageanch_tab{
+	-fx-background-color:#f5eee9;
+	
+	
+}
+
+.powerpointanch_tab{
+	-fx-background-color:#f5eee9;
+	-fx-border-color: #f0c5d0;
+	
+	
+}
+
+.posteranch_tab{
+	-fx-background-color:#f5eee9;
+	-fx-border-color: #f0c5d0;
+	
+	
+}
+
+.essayanch_tab{
+	-fx-background-color:#f5eee9;
+
+	
+	
+}
+
+
+.brochureanch_tab{
+	-fx-background-color:#f5eee9;
+	-fx-border-color: #f0c5d0;
+	
+	
+}
+
+.infographicanch_tab{
+	-fx-background-color:#f5eee9;
+	
+	
+}
+
+.profileanch_tab{
+	-fx-background-color:#f5eee9;
+	
+
+}
+
+.text-area {
+    -fx-background-color: transparent;
+}
+
+.text-area .scroll-pane {
+    -fx-background-color: transparent;
+}
+
+.text-area .scroll-pane .viewport{
+    -fx-background-color: transparent;
+}
+
+
+.text-area .scroll-pane .content{
+    -fx-background-color: transparent;
+}
+

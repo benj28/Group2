@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ScrollPane prefHeight="600.0" prefWidth="1000.0">
+        <content>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="3200.0" prefWidth="1000.0" style="-fx-background-color: #f5eee9;">
+               <children>
+                  <Text layoutX="450.0" layoutY="234.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Quiz">
+                     <font>
+                        <Font name="Microsoft YaHei" size="39.0" />
+                     </font>
+                  </Text>
+                  <Rectangle arcHeight="75.0" arcWidth="75.0" fill="#a28873" height="154.0" layoutX="153.0" layoutY="305.0" stroke="TRANSPARENT" strokeType="INSIDE" width="671.0">
+                     <effect>
+                        <DropShadow height="10.0" radius="4.5" width="10.0" />
+                     </effect>
+                  </Rectangle>
+                  <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="409.0" layoutY="41.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../Infographic_pic/logo.png" />
+                     </image>
+                  </ImageView>
+                  <Text layoutX="380.0" layoutY="252.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Let's test what you've learned so far">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="15.0" />
+                     </font>
+                  </Text>
+                  <RadioButton layoutX="307.0" layoutY="400.0" mnemonicParsing="false" text="TRUE">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <RadioButton layoutX="570.0" layoutY="400.0" mnemonicParsing="false" text="FALSE">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <Text layoutX="216.0" layoutY="347.0" strokeType="OUTSIDE" strokeWidth="0.0" text="1. You need to make sure that you have a strong topic, informative data, or ">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="15.0" />
+                     </font>
+                  </Text>
+                  <Rectangle arcHeight="75.0" arcWidth="75.0" fill="#a28873" height="245.0" layoutX="153.0" layoutY="489.0" stroke="TRANSPARENT" strokeType="INSIDE" width="671.0">
+                     <effect>
+                        <DropShadow height="10.0" radius="4.5" width="10.0" />
+                     </effect>
+                  </Rectangle>
+                  <Text layoutX="208.0" layoutY="541.0" strokeType="OUTSIDE" strokeWidth="0.0" text="2. In making an infographic that shows or measures annual revenue or team’s growth ">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="15.0" />
+                     </font>
+                  </Text>
+                  <RadioButton layoutX="202.0" layoutY="577.0" mnemonicParsing="false" prefHeight="43.0" prefWidth="580.0" text="Go with a more image-heavy layout that places an emphasis on tables and charts. ">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <RadioButton layoutX="202.0" layoutY="620.0" mnemonicParsing="false" text="Go with more text and less pictures.">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <RadioButton layoutX="202.0" layoutY="681.0" mnemonicParsing="false" prefHeight="21.0" prefWidth="487.0" text="By putting more pictures and charts that are less related to your topic.">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <RadioButton layoutX="202.0" layoutY="649.0" mnemonicParsing="false" prefHeight="21.0" prefWidth="481.0" text="Showing your key data by putting more colors and lots of fonts style.">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <Rectangle arcHeight="75.0" arcWidth="75.0" fill="#a28873" height="189.0" layoutX="153.0" layoutY="774.0" stroke="TRANSPARENT" strokeType="INSIDE" width="671.0">
+                     <effect>
+                        <DropShadow height="10.0" radius="4.5" width="10.0" />
+                     </effect>
+                  </Rectangle>
+                  <Text layoutX="216.0" layoutY="816.0" strokeType="OUTSIDE" strokeWidth="0.0" text="3. The most important thing to keep in mind when choosing how to arrange key ">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="15.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="220.0" layoutY="366.0" strokeType="OUTSIDE" strokeWidth="0.0" text="unique information that’s going to capture the audience’s attention.">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="222.0" layoutY="560.0" strokeType="OUTSIDE" strokeWidth="0.0" text="changed over time what is the best way to illustrate your key data?">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="233.0" layoutY="835.0" strokeType="OUTSIDE" strokeWidth="0.0" text="information on your infographic is ____________ ">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </Text>
+                  <RadioButton layoutX="569.0" layoutY="847.0" mnemonicParsing="false" prefHeight="43.0" prefWidth="168.0" text="Infographic Content">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <RadioButton layoutX="253.0" layoutY="858.0" mnemonicParsing="false" text="Visual Hierarchy">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <RadioButton layoutX="569.0" layoutY="899.0" mnemonicParsing="false" prefHeight="21.0" prefWidth="82.0" text="Margins">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <RadioButton layoutX="253.0" layoutY="899.0" mnemonicParsing="false" prefHeight="21.0" prefWidth="122.0" text="Color Scheme">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <Rectangle arcHeight="75.0" arcWidth="75.0" fill="#a28873" height="145.0" layoutX="154.0" layoutY="993.0" stroke="TRANSPARENT" strokeType="INSIDE" width="671.0">
+                     <effect>
+                        <DropShadow height="10.0" radius="4.5" width="10.0" />
+                     </effect>
+                  </Rectangle>
+                  <Text layoutX="221.0" layoutY="1049.0" strokeType="OUTSIDE" strokeWidth="0.0">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="211.0" layoutY="1029.0" strokeType="OUTSIDE" strokeWidth="0.0" text="4. The bigger the element (whether that’s an illustration, a line of text, or a  graph or chart), the more likely it is to grab people’s attention" wrappingWidth="524.5732421875">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="15.0" />
+                     </font>
+                  </Text>
+                  <RadioButton layoutX="339.0" layoutY="1086.0" mnemonicParsing="false" text="TRUE">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <RadioButton layoutX="556.0" layoutY="1086.0" mnemonicParsing="false" text="FALSE">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <Rectangle arcHeight="75.0" arcWidth="75.0" fill="#a28873" height="178.0" layoutX="157.0" layoutY="1172.0" stroke="TRANSPARENT" strokeType="INSIDE" width="671.0">
+                     <effect>
+                        <DropShadow height="10.0" radius="4.5" width="10.0" />
+                     </effect>
+                  </Rectangle>
+                  <Text layoutX="206.0" layoutY="1220.0" strokeType="OUTSIDE" strokeWidth="0.0" text="5. These are graphic elements you can include in your infographic except ____: " wrappingWidth="534.95849609375">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="15.0" />
+                     </font>
+                  </Text>
+                  <RadioButton layoutX="270.0" layoutY="1242.0" mnemonicParsing="false" prefHeight="21.0" prefWidth="183.0" text="Custom illustrations">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <RadioButton layoutX="270.0" layoutY="1279.0" mnemonicParsing="false" prefHeight="21.0" prefWidth="183.0" text="Charts">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <RadioButton layoutX="532.0" layoutY="1242.0" mnemonicParsing="false" prefHeight="21.0" prefWidth="244.0" text="Gif Images and short video ">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <RadioButton layoutX="532.0" layoutY="1279.0" mnemonicParsing="false" prefHeight="21.0" prefWidth="183.0" text="Tables &amp; Graphs">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <Rectangle arcHeight="75.0" arcWidth="75.0" fill="#a28873" height="195.0" layoutX="158.0" layoutY="1383.0" stroke="TRANSPARENT" strokeType="INSIDE" width="669.0">
+                     <effect>
+                        <DropShadow height="10.0" radius="4.5" width="10.0" />
+                     </effect>
+                  </Rectangle>
+                  <Text layoutX="207.0" layoutY="1429.0" strokeType="OUTSIDE" strokeWidth="0.0" text="6. People have deep psychological ties and associations to color, and different colors can inspire different thoughts, feelings, emotions, and actions with your audience. This concept is called________." wrappingWidth="564.5009765625">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="15.0" />
+                     </font>
+                  </Text>
+                  <RadioButton layoutX="270.0" layoutY="1490.0" mnemonicParsing="false" prefHeight="21.0" prefWidth="183.0" text="Color Psychology">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <RadioButton layoutX="270.0" layoutY="1521.0" mnemonicParsing="false" prefHeight="21.0" prefWidth="183.0" text="Color Schemes">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <RadioButton layoutX="526.0" layoutY="1490.0" mnemonicParsing="false" prefHeight="21.0" prefWidth="183.0" text="Industry of Colors">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <RadioButton layoutX="526.0" layoutY="1521.0" mnemonicParsing="false" prefHeight="21.0" prefWidth="183.0" text="Color Associations">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <Rectangle arcHeight="75.0" arcWidth="75.0" fill="#a28873" height="173.0" layoutX="158.0" layoutY="1611.0" stroke="TRANSPARENT" strokeType="INSIDE" width="669.0">
+                     <effect>
+                        <DropShadow height="10.0" radius="4.5" width="10.0" />
+                     </effect>
+                  </Rectangle>
+                  <Text layoutX="206.0" layoutY="1663.0" strokeType="OUTSIDE" strokeWidth="0.0" text="7. In presenting data about the growth of company sales and revenue what type of fonts should you use?" wrappingWidth="564.5009765625">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="15.0" />
+                     </font>
+                  </Text>
+                  <RadioButton layoutX="270.0" layoutY="1703.0" mnemonicParsing="false" prefHeight="21.0" prefWidth="183.0" text="Informal">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <RadioButton layoutX="270.0" layoutY="1735.0" mnemonicParsing="false" prefHeight="21.0" prefWidth="183.0" text="Formal">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <RadioButton layoutX="519.0" layoutY="1735.0" mnemonicParsing="false" prefHeight="21.0" prefWidth="183.0" text="Funky">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <RadioButton layoutX="519.0" layoutY="1703.0" mnemonicParsing="false" prefHeight="21.0" prefWidth="183.0" text="Dramatic">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <ImageView fitHeight="220.0" fitWidth="332.0" layoutX="586.0" layoutY="2841.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../Infographic_pic/logoo.png" />
+                     </image>
+                  </ImageView>
+                  <Text layoutX="223.0" layoutY="2738.0" strokeType="OUTSIDE" strokeWidth="0.0" text="&quot;Design is not just what it looks like and feels like. Design is how it works.&quot;" wrappingWidth="559.1380615234375">
+                     <font>
+                        <Font name="Microsoft YaHei Light" size="26.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="479.0" layoutY="2801.0" strokeType="OUTSIDE" strokeWidth="0.0" text="-Steve Jobs, co-founder of Apple, Inc.">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Text>
+                  <Rectangle arcHeight="75.0" arcWidth="75.0" fill="#a28873" height="217.0" layoutX="163.0" layoutY="1821.0" stroke="TRANSPARENT" strokeType="INSIDE" width="669.0">
+                     <effect>
+                        <DropShadow height="10.0" radius="4.5" width="10.0" />
+                     </effect>
+                  </Rectangle>
+                  <Text layoutX="210.0" layoutY="1875.0" strokeType="OUTSIDE" strokeWidth="0.0" text="8. In using an image into your infographic you should consider that the image is:" wrappingWidth="564.5009765625">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="15.0" />
+                     </font>
+                  </Text>
+                  <RadioButton layoutX="245.0" layoutY="1897.0" mnemonicParsing="false" prefHeight="21.0" prefWidth="511.0" text="to consider is whether the colors in your image compliments your design">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <RadioButton layoutX="243.0" layoutY="1995.0" mnemonicParsing="false" prefHeight="21.0" prefWidth="183.0" text="small to save memory">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <RadioButton layoutX="243.0" layoutY="1963.0" mnemonicParsing="false" prefHeight="21.0" prefWidth="354.0" text="to just make your infographic colorful">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <RadioButton layoutX="244.0" layoutY="1930.0" mnemonicParsing="false" prefHeight="21.0" prefWidth="263.0" text="to just fill the spaces in the layout">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <Rectangle arcHeight="75.0" arcWidth="75.0" fill="#a28873" height="278.0" layoutX="167.0" layoutY="2072.0" stroke="TRANSPARENT" strokeType="INSIDE" width="664.0">
+                     <effect>
+                        <DropShadow height="10.0" radius="4.5" width="10.0" />
+                     </effect>
+                  </Rectangle>
+                  <Text layoutX="215.0" layoutY="2163.0" strokeType="OUTSIDE" strokeWidth="0.0" text="9.  Is this a good design/layout infographic example?" wrappingWidth="309.5009765625">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="15.0" />
+                     </font>
+                  </Text>
+                  <ImageView fitHeight="237.0" fitWidth="251.0" layoutX="532.0" layoutY="2094.0" pickOnBounds="true">
+                     <image>
+                        <Image url="@../../Infographic_pic/bad.png" />
+                     </image>
+                  </ImageView>
+                  <RadioButton layoutX="258.0" layoutY="2230.0" mnemonicParsing="false" prefHeight="21.0" prefWidth="89.0" text="Yes ">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <RadioButton layoutX="403.0" layoutY="2230.0" mnemonicParsing="false" prefHeight="21.0" prefWidth="68.0" text="No">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <Rectangle arcHeight="75.0" arcWidth="75.0" fill="#a28873" height="298.0" layoutX="168.0" layoutY="2385.0" stroke="TRANSPARENT" strokeType="INSIDE" width="664.0">
+                     <effect>
+                        <DropShadow height="10.0" radius="4.5" width="10.0" />
+                     </effect>
+                  </Rectangle>
+                  <Text layoutX="221.0" layoutY="2454.0" strokeType="OUTSIDE" strokeWidth="0.0" text="10.  Is this a good design/layout infographic example?" wrappingWidth="309.5009765625">
+                     <font>
+                        <Font name="Microsoft Sans Serif" size="15.0" />
+                     </font>
+                  </Text>
+                  <RadioButton layoutX="256.0" layoutY="2531.0" mnemonicParsing="false" prefHeight="21.0" prefWidth="89.0" text="Yes ">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <RadioButton layoutX="401.0" layoutY="2531.0" mnemonicParsing="false" prefHeight="21.0" prefWidth="68.0" text="No">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <ImageView fitHeight="234.0" fitWidth="259.0" layoutX="533.0" layoutY="2416.0" pickOnBounds="true">
+                     <image>
+                        <Image url="@../../Infographic_pic/good.PNG" />
+                     </image>
+                  </ImageView>
+                  <Button layoutX="315.0" layoutY="2885.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="148.0" style="-fx-background-color: #54785e;" text="FINISH" textFill="#f5eee9">
+                     <font>
+                        <Font name="Microsoft YaHei Light" size="23.0" />
+                     </font>
+                  </Button>
+               </children>
+            </AnchorPane>
+        </content>
+      </ScrollPane>
+   </children>
+</AnchorPane>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="infographicanchp2" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="415.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ScrollPane fx:id="info" layoutY="-6.0" prefHeight="433.0" prefWidth="1000.0">
+         <content>
+            <AnchorPane fx:id="infographicanch" minHeight="0.0" minWidth="0.0" prefHeight="425.0" prefWidth="998.0" styleClass="infographicanch_tab" stylesheets="@application.css">
+               <children>
+                  <Button layoutX="823.0" layoutY="367.0" mnemonicParsing="false" onAction="#infop8" prefHeight="32.0" prefWidth="65.0" style="-fx-background-color: #54785e;" text="Next" textFill="#f5eee9" />
+                  <Text layoutX="49.0" layoutY="80.0" strokeType="OUTSIDE" strokeWidth="0.0" text="06. Choose your font">
+                     <font>
+                        <Font name="Microsoft YaHei" size="24.0" />
+                     </font>
+                  </Text>
+                  <TextArea editable="false" layoutX="49.0" layoutY="110.0" prefHeight="185.0" prefWidth="526.0" text="The language you use in your infographic delivers a message, but so does your font. You want &#10;to choose fonts that are in line with your overall messaging. If you’re presenting serious data to &#10;investors, you don’t want to use a font that’s too whimsical or graphic-based. On the flip side, &#10;if you’re creating a timeline infographic to celebrate milestones in the first year of your &#10;children’s clothing business, using a traditional font like Times New Roman or Helvetica would &#10;feel too stuffy.&#10;&#10;Think about the look and feel you’re trying to create with your infographic, and then choose a &#10;font that feels in line with that look and feel." />
+                  <ImageView fitHeight="149.0" fitWidth="176.0" layoutX="767.0" layoutY="85.0">
+                     <image>
+                        <Image url="@../../Infographic_pic/why_fonts_matter_02.jpg" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="133.0" fitWidth="169.0" layoutX="398.0" layoutY="286.0">
+                     <image>
+                        <Image url="@../../Infographic_pic/why_fonts_matter_03.jpg" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="356.0" fitWidth="165.0" layoutX="589.0" layoutY="63.0" pickOnBounds="true">
+                     <image>
+                        <Image url="@../../Infographic_pic/Capture.PNG" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="132.0" fitWidth="256.0" layoutX="127.0" layoutY="287.0">
+                     <image>
+                        <Image url="@../../Infographic_pic/Lovelo-Free-Infographic-Font.jpeg" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="101.0" fitWidth="176.0" layoutX="767.0" layoutY="245.0">
+                     <image>
+                        <Image url="@../../Infographic_pic/Marine-Infographic-Font.jpeg" />
+                     </image>
+                  </ImageView>
+               </children>
+            </AnchorPane>
+         </content></ScrollPane>
+   </children>
+</AnchorPane>
